@@ -20,11 +20,7 @@ I enjoy solving complex technical problems, exploring emerging technologies, and
 
 ## Featured Projects
 
-- **[AI-Powered Review Extraction](https://github.com/AdithiyaaN)** — Developing automated review extraction pipelines using browser automation, OCR, and local language models to collect and structure customer feedback.
-
-- **[Computer Vision and Machine Learning](https://github.com/AdithiyaaN)** — Exploring deep learning architectures and computer vision techniques to build practical image analysis solutions.
-
-- **[Interactive Analytics Platform](https://github.com/AdithiyaaN)** — Building interactive web applications with React and Flask for data visualization and analytics.
+- **[AI-Powered Review Extraction](https://github.com/AdithiyaaN)** — Developing automated review extraction pipelines using browser automation, and local language models to collect and structure customer feedback.
 
 ## GitHub Statistics
 
