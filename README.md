@@ -1,34 +1,50 @@
-# Hi there 👋, I'm Adithiyaa N
+# Adithiyaa N
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR417zR/giphy.gif" width="28px"> **Computer Science Graduate & Software Developer** based in **Bengaluru, India**. 
+**Computer Science Graduate | Software Developer | AI/ML Engineer**
 
-- 💻 Passionate about building full-stack applications, interactive web experiences, and machine learning models.
-- 🌱 Currently exploring agentic workflows, local LLMs, and computer vision pipelines.
-- ⚡ Fun fact: I love experimenting with UI design, digital graphics, and web-based games!
+Bengaluru, India
 
-- ### 🛠️ Tech Stack
+I am a Computer Science graduate passionate about building scalable software applications, interactive web experiences, and intelligent systems. My interests span full-stack development, machine learning, computer vision, and AI-powered automation.
 
-- **Languages:** Python, JavaScript, MATLAB, HTML5, CSS3, SQL
-- **Frameworks & Libraries:** React, React Native, Node.js, Flask, Three.js
-- **AI & ML:** PyTorch, U-Net, OpenCV, Ollama, Hugging Face
-- **Tools & Platforms:** Git, GitHub, Docker, Firebase, Android Studio, macOS
+I enjoy solving complex technical problems, experimenting with emerging technologies, and turning ideas into practical solutions.
 
-- ### 🚀 Featured Projects
+## Technical Skills
 
-- **[Project Name](https://github.com/yourusername/repo)** - Short description of the problem it solves, key features, and technologies used.
-- **[Another Project](https://github.com/yourusername/repo)** - Built an interactive platform utilizing React and Flask for real-time analytics.
+**Programming Languages:** Python, JavaScript, Java, SQL, MATLAB, HTML5, CSS3
 
-- ### 📊 GitHub Stats
+**Frameworks and Libraries:** React, React Native, Node.js, Flask, Three.js
+
+**AI and Machine Learning:** PyTorch, U-Net, OpenCV, Hugging Face Transformers, Ollama
+
+**Tools and Platforms:** Git, GitHub, Docker, Firebase, Android Studio, macOS
+
+## Featured Projects
+
+- **[Project Name](https://github.com/yourusername/repo)** — Describe the problem, your technical approach, key features, and the technologies used to build the solution.
+
+- **[Interactive Analytics Platform](https://github.com/yourusername/repo)** — Developed an interactive web application using React and Flask to deliver real-time analytics and data-driven insights.
+
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdithiyaaN&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdithiyaaN&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithiyaaN&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithiyaaN&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Programming Languages" />
 </p>
 
-### 📬 Let's Connect
+## Current Interests
 
-- **LinkedIn:** [Adithiyaan](https://linkedin.com/in/adithiyaan)
-- **Email:** adithiyaan.work@gmail.com
+- Developing AI agents and agentic workflows
+- Exploring local large language models and LLM-powered applications
+- Building computer vision pipelines and machine learning solutions
+- Creating interactive web applications and exploring UI engineering
+
+## Contact
+
+**LinkedIn:** [Adithiyaan](https://linkedin.com/in/adithiyaan)
+
+**Email:** adithiyaan.work@gmail.com
+
+**GitHub:** [AdithiyaaN](https://github.com/AdithiyaaN)
