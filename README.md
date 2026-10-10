@@ -4,13 +4,13 @@
 
 Bengaluru, India
 
-I am a Computer Science graduate passionate about building scalable software applications, interactive web experiences, and intelligent systems. My interests span full-stack development, machine learning, computer vision, and AI-powered automation.
+I am a Computer Science graduate focused on building scalable software applications, AI-powered systems, and interactive web experiences. My interests span full-stack development, machine learning, computer vision, and intelligent automation.
 
-I enjoy solving complex technical problems, experimenting with emerging technologies, and turning ideas into practical solutions.
+I enjoy solving complex technical problems, exploring emerging technologies, and building practical solutions that bridge software engineering and artificial intelligence.
 
 ## Technical Skills
 
-**Programming Languages:** Python, JavaScript, Java, SQL, MATLAB, HTML5, CSS3
+**Languages:** Python, JavaScript, Java, SQL, MATLAB, HTML5, CSS3
 
 **Frameworks and Libraries:** React, React Native, Node.js, Flask, Three.js
 
@@ -20,9 +20,11 @@ I enjoy solving complex technical problems, experimenting with emerging technolo
 
 ## Featured Projects
 
-- **[Project Name](https://github.com/yourusername/repo)** — Describe the problem, your technical approach, key features, and the technologies used to build the solution.
+- **[AI-Powered Review Extraction](https://github.com/AdithiyaaN)** — Developing automated review extraction pipelines using browser automation, OCR, and local language models to collect and structure customer feedback.
 
-- **[Interactive Analytics Platform](https://github.com/yourusername/repo)** — Developed an interactive web application using React and Flask to deliver real-time analytics and data-driven insights.
+- **[Computer Vision and Machine Learning](https://github.com/AdithiyaaN)** — Exploring deep learning architectures and computer vision techniques to build practical image analysis solutions.
+
+- **[Interactive Analytics Platform](https://github.com/AdithiyaaN)** — Building interactive web applications with React and Flask for data visualization and analytics.
 
 ## GitHub Statistics
 
@@ -31,17 +33,18 @@ I enjoy solving complex technical problems, experimenting with emerging technolo
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithiyaaN&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Programming Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithiyaaN&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook" alt="Most Used Programming Languages, excluding Jupyter Notebook" />
 </p>
 
-## Current Interests
+## Areas of Interest
 
-- Developing AI agents and agentic workflows
-- Exploring local large language models and LLM-powered applications
-- Building computer vision pipelines and machine learning solutions
-- Creating interactive web applications and exploring UI engineering
+- AI agents and agentic workflows
+- Local large language models and LLM-powered applications
+- Web scraping and intelligent data extraction
+- Computer vision and deep learning
+- Full-stack development and interactive UI engineering
 
-## Contact
+## Connect
 
 **LinkedIn:** [Adithiyaan](https://linkedin.com/in/adithiyaan)
 
